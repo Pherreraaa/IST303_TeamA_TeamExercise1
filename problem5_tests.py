@@ -32,7 +32,7 @@ def test_parse_time_expression():
     except Exception as e:
         assert str(e) == "Input must be a string."
 
-    print("All tests passed!")
+    print("All tests passed! :D")
 
 if __name__ == "__main__":
     test_parse_time_expression()
