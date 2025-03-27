@@ -31,7 +31,7 @@ def get_msg(id: int):
     msg_entry = message_dict.get(id)
 
     if not msg_entry or current_time < msg_entry['unlock_time']:
-        print("cannot retrieve your message. The message may not exist or more time may need to pass.")
+        print("Cannot retrieve your message. The message may not exist or more time may need to pass.")
         return False
 
     print(msg_entry['message'])
