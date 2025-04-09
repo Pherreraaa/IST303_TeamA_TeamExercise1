@@ -1,1 +1,1 @@
-# IST303_TeamA_TeamExcercise1
+# IST303_TeamA_TeamExercise1
