@@ -69,4 +69,8 @@ When prompted, enter a topic to search. If your input is fewer than 4 characters
 
 ---
 
+After Refactoring python scripts, we had run in the VSC and outcome is as below 
+
+![image](https://github.com/user-attachments/assets/3ca6d90e-b90b-4431-80f2-096837823a3a)
+
 
