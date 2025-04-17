@@ -43,7 +43,7 @@ This Python script explores three different implementations for downloading Wiki
 
 ```plaintext
 ├── team_ex_2.py
-├── README.md
+├── team_ex_2.md
 └── wiki_dl/
     ├── Topic1.txt
     ├── Topic2.txt
