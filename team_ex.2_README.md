@@ -1,4 +1,4 @@
-# Team Exercise #2 – Wikipedia Concurrency Downloader
+# Team Exercise #2 – Wikipedia Concurrency Implementation
 
 ## Overview
 This Python script explores three different implementations for downloading Wikipedia references related to a search term. It uses the `wikipedia` and `concurrent.futures` libraries to:
